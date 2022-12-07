@@ -13,6 +13,7 @@ class View
      */
     public $title;
     public $asdasd;
+    public $asdasdasd;
     public $layout = 'default';
 
 
