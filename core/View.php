@@ -12,6 +12,7 @@ class View
      * @var string the page title
      */
     public $title;
+    public $asdasd;
     public $layout = 'default';
 
 
